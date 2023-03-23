@@ -21,6 +21,7 @@ To run Echo AI, you need to have Python installed on your computer. You also nee
 ->You can install these libraries using pip. For example:
 
 pip install pyttsx3\
+
 After installing the libraries, you can run the program using the following command:
 
 python chatbot.py
