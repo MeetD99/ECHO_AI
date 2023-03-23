@@ -29,13 +29,13 @@ python chatbot.py
 
 When you run the program, Echo AI will greet you and ask how it can help you. You can then give it voice commands to perform various tasks. Here are some examples:
 
-"Wikipedia Python": This command will search for the Python article on Wikipedia and read the first two sentences.\
-"Open Google": This command will open Google in your default web browser.\
-"What's the time?": This command will tell you the current time.\
-"Play Despacito on YouTube": This command will search for the Despacito video on YouTube and play it.\
-"Chat GPT": This command will start a conversation with OpenAI's GPT-3 and provide a response to the given prompt.\
-"Internet Speed": This command will test your internet download and upload speed and report the results.\
-"Exit": This command will exit the program.\
+• "Wikipedia Python": This command will search for the Python article on Wikipedia and read the first two sentences.\\
+• "Open Google": This command will open Google in your default web browser.\\
+• "What's the time?": This command will tell you the current time.\
+• "Play Despacito on YouTube": This command will search for the Despacito video on YouTube and play it.\
+• "Chat GPT": This command will start a conversation with OpenAI's GPT-3 and provide a response to the given prompt.\
+• "Internet Speed": This command will test your internet download and upload speed and report the results.\
+• "Exit": This command will exit the program.
 
 ->Credits
 
