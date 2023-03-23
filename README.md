@@ -16,12 +16,12 @@ To run Echo AI, you need to have Python installed on your computer. You also nee
 • pyfiglet\
 • creds (contains OpenAI API key)\
 • openai\
-• speedtest\ 
+• speedtest
 
-->You can install these libraries using pip. For example:\
+->You can install these libraries using pip. For example:
 
-pip install pyttsx3\
-After installing the libraries, you can run the program using the following command:\
+pip install pyttsx3
+After installing the libraries, you can run the program using the following command:
 
 python chatbot.py
 
