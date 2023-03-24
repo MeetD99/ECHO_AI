@@ -6,7 +6,7 @@ Echo AI is a personal intelligent assistant that is designed to understand and r
 ->Installation
 
 To run Echo AI, you need to have Python installed on your computer. You also need to install the following libraries:
-
+<ul>
 • pyttsx3\
 • speech_recognition\
 • wikipedia\
@@ -16,7 +16,8 @@ To run Echo AI, you need to have Python installed on your computer. You also nee
 • pyfiglet\
 • creds (contains OpenAI API key)\
 • openai\
-• speedtest
+<li>speedtest</li>
+</ul> 
 
 ->You can install these libraries using pip. For example:
 
