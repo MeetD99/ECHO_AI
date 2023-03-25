@@ -137,10 +137,11 @@ if __name__ == "__main__":
             speak(f" Sir, the time is {strTime}")
             
         elif 'youtube' in query:
-            speak("what should i search for")
-            search=takeCommand()
-            if valid_search(search):
-                pywhatkit.playonyt(search)
+            query = query.replace("youtube" , "")
+            #speak("what should i search for")
+            #search=takeCommand()
+            if valid_search(query):
+                pywhatkit.playonyt(query)
             else:
                 speak("Invalid Search")
             
