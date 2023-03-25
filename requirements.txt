@@ -1,0 +1,19 @@
+Requirements - Python:
+python==3.7.1
+pip==23.0.1
+
+Requirements - API_KEY:
+OPENAI_API_KEY
+
+Requirements - Modules / Packages :
+pyttsx3==2.90
+datetime
+speech_recognition==3.9.0
+wikipedia==1.4.0
+webbroswer
+os
+pywhatkit==5.4
+pyaudio==0.2.13
+pyfiglet==0.8.post1
+openai==o.27.2
+speedtest-cli==2.1.3
